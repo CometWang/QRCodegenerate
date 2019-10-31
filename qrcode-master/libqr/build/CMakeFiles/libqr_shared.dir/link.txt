@@ -1,0 +1,1 @@
+/usr/lib64/ccache/cc -fPIC   -shared -Wl,-soname,libqr.so.1 -o libqr.so.1.0.0 CMakeFiles/libqr_shared.dir/qr.c.o CMakeFiles/libqr_shared.dir/qrcnv.c.o CMakeFiles/libqr_shared.dir/qrcnv_bmp.c.o CMakeFiles/libqr_shared.dir/qrcnv_png.c.o CMakeFiles/libqr_shared.dir/qrcnv_svg.c.o CMakeFiles/libqr_shared.dir/qrcnv_tiff.c.o -Wl,-rpath,:::::::::::::: -lm -lz 

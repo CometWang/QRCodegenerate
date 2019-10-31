@@ -1,0 +1,2 @@
+/usr/bin/ar qc libqr.a  CMakeFiles/libqr_static.dir/qr.c.o CMakeFiles/libqr_static.dir/qrcnv.c.o CMakeFiles/libqr_static.dir/qrcnv_bmp.c.o CMakeFiles/libqr_static.dir/qrcnv_png.c.o CMakeFiles/libqr_static.dir/qrcnv_svg.c.o CMakeFiles/libqr_static.dir/qrcnv_tiff.c.o
+/usr/bin/ranlib libqr.a

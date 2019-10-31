@@ -1,0 +1,10 @@
+/home/jwan949/3305/trial/qrcode-master/libqr/build/CMakeFiles/install/strip.dir
+/home/jwan949/3305/trial/qrcode-master/libqr/build/CMakeFiles/install.dir
+/home/jwan949/3305/trial/qrcode-master/libqr/build/CMakeFiles/list_install_components.dir
+/home/jwan949/3305/trial/qrcode-master/libqr/build/CMakeFiles/qrcmd_multi.dir
+/home/jwan949/3305/trial/qrcode-master/libqr/build/CMakeFiles/rebuild_cache.dir
+/home/jwan949/3305/trial/qrcode-master/libqr/build/CMakeFiles/install/local.dir
+/home/jwan949/3305/trial/qrcode-master/libqr/build/CMakeFiles/qrcmd.dir
+/home/jwan949/3305/trial/qrcode-master/libqr/build/CMakeFiles/libqr_shared.dir
+/home/jwan949/3305/trial/qrcode-master/libqr/build/CMakeFiles/libqr_static.dir
+/home/jwan949/3305/trial/qrcode-master/libqr/build/CMakeFiles/edit_cache.dir

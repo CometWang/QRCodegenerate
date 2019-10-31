@@ -1,0 +1,1 @@
+/usr/lib64/ccache/cc   -rdynamic CMakeFiles/qrcmd_multi.dir/qrcmd.c.o  -o qrs -Wl,-rpath,/home/jwan949/3305/trial/qrcode-master/libqr/build: libqr.so.1.0.0 -lm -lz 

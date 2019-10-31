@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jwan949/3305/trial/qrcode-master/libqr/qr.h
+errno.h
+-
+stdio.h
+-
+
+/home/jwan949/3305/trial/qrcode-master/libqr/qr_util.h
+qr.h
+/home/jwan949/3305/trial/qrcode-master/libqr/qr.h
+stdarg.h
+-
+
+/home/jwan949/3305/trial/qrcode-master/libqr/qrcmd.c
+qrcmd.h
+/home/jwan949/3305/trial/qrcode-master/libqr/qrcmd.h
+err.h
+-
+limits.h
+-
+stdlib.h
+-
+string.h
+-
+sys/fcntl.h
+-
+
+/home/jwan949/3305/trial/qrcode-master/libqr/qrcmd.h
+config.h
+/home/jwan949/3305/trial/qrcode-master/libqr/config.h
+qr.h
+/home/jwan949/3305/trial/qrcode-master/libqr/qr.h
+qr_util.h
+/home/jwan949/3305/trial/qrcode-master/libqr/qr_util.h
+
